@@ -11,6 +11,11 @@
     "preview": {
       "distribution": "internal"
     },
+    "staging": {
+      "developmentClient": true, 
+      "distribution": "internal",
+      "autoIncrement": true       
+    },
     "production": {
       "autoIncrement": true
     }
